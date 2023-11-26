@@ -83,7 +83,7 @@ msgid ""
 "The current version of bootloader does not support booting %s-%s, please "
 "upgrade and rebuild."
 msgstr "La version actuelle du chargeur de démarrage ne prend pas en charge le démarrage de %s-%s, s'il vous plaît"
-"mettre à niveau et reconstruire".
+"mettre à niveau et reconstruire."
 
 #: boot.sh:87
 msgid ""
